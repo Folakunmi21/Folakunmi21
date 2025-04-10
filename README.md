@@ -2,7 +2,7 @@
 
 **Hi, I'm Esther**:
 - 😊 Pronouns: She/her
-I'm a beginner level data scientist currently building skills with NumPy, pandas,seaborn and matplotlib to transform data into insights.
+- I'm a beginner level data scientist currently building skills with NumPy, pandas,seaborn and matplotlib to transform data into insights.
 🧪 Passionate about microbiome research and contributing to [Bioconductor's microbiome curation project](https://bugsigdb.org/Main_Page).
 💻 Developing competencies in:
 
