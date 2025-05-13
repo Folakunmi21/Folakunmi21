@@ -6,16 +6,16 @@
 - 🧪 Currently contributing to [Bioconductor's Bioconductor's microbiome curation project](https://bugsigdb.org/Main_Page)
 
 - 🌱 Developing competencies in:
-        -Python
-        - SQL,
-        - Data cleaning and preprocessing
-        - Exploratory data analysis
-        - Data visualization
-        - Handling missing data**
+-Python
+- SQL
+- Data cleaning and preprocessing
+- Exploratory data analysis
+- Data visualization
+- Handling missing data**
 
 - 👯 I’m currently open to:
-        - Data science internship opportunities
-        - Open source microbiome research collaborations**
+- Data science internship opportunities
+- Open source microbiome research collaborations
 
 - 📝 I sometimes write articles on [https://kunmiwrites.wordpress.com/](https://kunmiwrites.wordpress.com/)
 
