@@ -5,15 +5,23 @@
 
 - 🧪 Currently contributing to [Bioconductor's Bioconductor's microbiome curation project](https://bugsigdb.org/Main_Page)
 
-- 🌱 Developing competencies in: **-Python, - SQL,- Data cleaning and preprocessing - Exploratory data analysis - Data visualization - Handling missing data**
+- 🌱 Developing competencies in:
+        -Python
+        - SQL,
+        - Data cleaning and preprocessing
+        - Exploratory data analysis
+        - Data visualization
+        - Handling missing data**
 
-- 👯 I’m currently open to **- Data science internship opportunities - Open source microbiome research collaborations**
+- 👯 I’m currently open to:
+        - Data science internship opportunities
+        - Open source microbiome research collaborations**
 
 - 📝 I sometimes write articles on [https://kunmiwrites.wordpress.com/](https://kunmiwrites.wordpress.com/)
 
-- 📫 How to reach me **afuapeesther@gmail.com**
+- 📫 How to reach me: **afuapeesther@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YUF_JMOdzjo5zfX9zx6_sZrXOcWzgrN8/view?usp=drive_link](https://drive.google.com/file/d/1YUF_JMOdzjo5zfX9zx6_sZrXOcWzgrN8/view?usp=drive_link)
+- 📄  You can [view my resume](https://drive.google.com/file/d/1YUF_JMOdzjo5zfX9zx6_sZrXOcWzgrN8/view?usp=drive_link)
 
 - ⚡ Fun fact **I enjoy thrillers/suspense movies and books**
 
