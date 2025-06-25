@@ -21,7 +21,7 @@
 
 - 📫 How to reach me: **afuapeesther@gmail.com**
 
-- 📄  You can [view my resume](https://drive.google.com/file/d/1YUF_JMOdzjo5zfX9zx6_sZrXOcWzgrN8/view?usp=drive_link)
+- 📄  You can [view my resume](https://drive.google.com/file/d/1Cxy3kq5qgh-hS2vsQ7UYcKO-cfpmtrAg/view?usp=sharing)
 
 - ⚡ Fun fact **I enjoy thrillers/suspense movies and books**
 
