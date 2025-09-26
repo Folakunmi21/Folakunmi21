@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Esther</h1>
 <h3 align="center">A passionate data scientist</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=folakunmi21" alt="folakunmi21" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=folakunmi21" alt="folakunmi21" /></a> </p> -->
 
 - 🧪 Currently contributing to [Bioconductor's Bioconductor's microbiome curation project](https://bugsigdb.org/Main_Page)
 
