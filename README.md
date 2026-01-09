@@ -7,14 +7,14 @@
 
 - 🌱 Developing competencies in:
  - Python
- - SQL
+ - Machine learning and modeling
  - Data cleaning and preprocessing
  - Exploratory data analysis
  - Data visualization
  - Handling missing data**
 
 - 👯 I’m currently open to:
-- Data science internship opportunities
+- Data science internship opportunities/Entry level roles
 - Open source microbiome research collaborations
 
 - 📝 I sometimes write articles on [https://kunmiwrites.wordpress.com/](https://kunmiwrites.wordpress.com/)
